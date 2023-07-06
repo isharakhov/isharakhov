@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 ***
-QA Fullstack
-> И швец, и жнец, и на дуде игрец.
-***
 Projects
 + [GitHub](https://github.com/isharakhov?tab=repositories)
 
